@@ -3,7 +3,6 @@
     "clientKey": "",
     "captchaList": [
         "ReCaptcha2",
-        "ReCaptcha3",
         "ReCaptchaEnterprise",
         "FunCaptcha",
         "HCaptcha",
@@ -27,5 +26,8 @@
         "login": "",
         "password": ""
     },
-    "manualResolving": false
+    "manualResolving": false,
+    "autoSolve": {
+        "reCaptcha2": true
+    }
 }
