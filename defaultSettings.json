@@ -1,6 +1,6 @@
 {
     "isEnabled": true,
-    "clientKey": "",
+    "clientKey": "fcd663bf5f1343ef7a07fc86c4f1ce82",
     "captchaList": [
         "ReCaptcha2",
         "ReCaptchaEnterprise",
